@@ -1,0 +1,148 @@
+:PROPERTIES:
+:ID:       5C8A5596-04DA-4DDA-9544-7C4514CC2554
+:END:
+
+#+TITLE: Tasks
+#+TODO: TODO NEXT WAIT fKunda KUNDAF | DONE CANCELLED
+
+* ChatGPT
+~DONE~ in offline means done in that context, it will become ~TODO~ once online.
+
+** DONE NEW How to use the quotation sign directly rather than as a modifer “ä” etc an just ASCII quotes
+
+** DONE NEW “This is not the chart of someone who exits through death, samādhi, or shock.” What moksha modes
+
+** DONE NEW “This is not the chart of someone who exits through death, samādhi, or shock.” What moksha modes
+
+** DONE NEW Battery and below 10 C temps?
+It drains a lot when turned off.
+
+** DONE ARCHIVE iPadOS 26 macOS Shift
+
+** DONE iPad Air Battery Tips
+- On iPadOS 26, what are “Tracking Notifications” (in notifications)
+- Why is there Facetime and the new Phone app?
+- If I let notifications for Spark and Telegram enabled, will they cause any overhead when I’m offline? Or only upon delivering which is by definition only when I connect (and then I have access to a power outlet).
+- Same question for background app refresh, when does it cause overhead when offline? Only when the app is running in the app switcher? As in do I need to disable background app refresh for say Telegram if I only open it when I connect? How about location services?
+- If I disable all you told me to, would low power mode still make a difference to stretch the battery further when just reading and writing, like notes, chatgpt app (reading) etc.
+
+** DONE ARCHIVE Apple Handoff Requirements
+
+** DONE ARCHIVE Dutch oven on fogón
+
+** DONE Spices Summary and Use
+Compare when to use anise, saffron, dill and bay leaf. Which is best for my chicken congee? I use cardamom for my 9 AM porridge. Which is best for warm milk to replace turmeric?
+
+** TODO READ Magic Types and Energy
+
+** DONE READ Multi-life Enlightenment Models
+
+** DONE ARCHIVE Deer Leg Identification
+
+** DONE ARCHIVE Red Potato Identification
+
+** DONE Morning Protein vs Sugar
+Just to clarify the cocoa is liquid, it’s a cup of out homemade roasted, pure, no additives of any kind. So you say cardamom in it is a good idea? Good, because without piloncillo the taste is a bit boring. How about walnuts or cacahuates?
+
+
+“Your nervous system on waking is catabolic. Cortisol peaks in the early morning to mobilise fuel and sharpen awareness. If you add sugar at this point, you collide with that state.”
+
+If this is so why am I so retarded in the morning? The fog may last for hours.
+
+Also in terms of activity, slow morning or fast and physical or mental? I tend fast physical (carrying water, chopping wood) because that’s how I warm up.
+
+
+You say sugar after protein and after physical work. So how about start with eggs and fennel tea (or  one or chicken feet broth) in the morning, chop wood for two hours and at 9 AM have a break with piloncillo-sweetened chocolate and porridge with seeds, butter and honey?
+
+** HOLD RECREATE Consolidation and Integration
+Re-ask the question, joints hurt, easily tired, oesophagus and stomach upset.
+
+Awareness buoyancy changing, sometimes still bubbles up to the head, many times sinks down.
+
+Where am I now in the descent process (Neidan, Dzogchen including elements, non-returner lens with specific attention to early Turiya signs)?
+
+Starting to dissolve in unity, feels strong, I would say for the first time, all encompassing love. But that’s just sometimes, especially with monotone work. Light brown shit, watery (but not diarrhoea.) I sleep usually without a break, 7 PM to 4 AM. Still not digesting sesame seeds. No later urgent shitting at night. I’m still somewhat on the edge, but not surviving mode emergency mode.
+
+What are the signs for entering the next stage (whichever it is), both physical and consciousness wise.
+
+outline how this phase usually completes without fanfare, so you don’t miss it.
+
+DO NOT ARCHIVE YET THE OLD THREAD. 
+
+** DONE ARCHIVE Retaining Wall Stone Size
+CLOSED: [2026-01-09 Fri 11:23]
+:LOGBOOK:
+- State "DONE"       from              [2026-01-09 Fri 11:23]
+- State "DONE"       from "HOLD"       [2026-01-09 Fri 11:18]
+:END:
+** DONE Energetic Boundaries and Dogs
+CLOSED: [2026-01-09 Fri 11:23]
+:LOGBOOK:
+- State "DONE"       from              [2026-01-09 Fri 11:23]
+- State "DONE"       from "HOLD"       [2026-01-09 Fri 11:18]
+:END:
+Where do I put obsidians then? On the energetic boundary of the place or on the boundary of my space wihin that genius loci?
+** DONE ARCHIVE Post-technique Flexibility Tips
+CLOSED: [2026-01-09 Fri 11:29]
+:LOGBOOK:
+- State "DONE"       from              [2026-01-09 Fri 11:29]
+:END:
+** DONE ARCHIVE Post-technique Flexibility Tips
+CLOSED: [2026-01-09 Fri 11:29]
+:LOGBOOK:
+- State "DONE"       from              [2026-01-09 Fri 11:29]
+:END:
+** DONE ARCHIVE Bile liver fire flare
+** DONE Nodal Return Insights
+CLOSED: [2026-01-09 Fri 11:32]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2026-01-09 Fri 11:32]
+- State "TODO"       from "DONE"       [2026-01-09 Fri 11:32]
+- State "DONE"       from              [2026-01-09 Fri 11:32]
+:END:
+“Map how this Rahu resolves only after Ketu fully empties the 3rd”
+
+Would you say what I'm currently living is in line with the themes of this return?
+* Online
+** MercadoLibre
+*** TODO Cast iron olla
+ChaGPT: What should it be used for ad what not?
+
+*** TODO Enameled cast iron oven
+
+*** TODO Coveralls all types
+
+*** TODO Simparica Trio
+
+** TODO Download a book to test Preview
+** TODO What subscriptions -> update budget note
+:LOGBOOK:
+- State "TODO"       from              [2026-01-09 Fri 11:07]
+:END:
+** TODO FIO & Wise: get balances -> update budget
+So I can make budget.
+
+** TODO Elodia: send $4216 - $100
+
+** TODO Download WorkingCopy
+How to make it work with Plain Org? Create repo for documents.
+
+** TODO Download a Jyotish app
+Especially D9 interests me.
+
+* Offline
+** TODO Try Plain Org
+*** TODO Can I edit todo states?
+** STARTED Budget
+
+** TODO Clean up Notes
+
+* Locations
+** Tres Marías
+*** TODO Buy lámina 130x130cm+
+
+** Santa María Ahuacatitlán
+*** TODO Refri
+
+** Supermarket
+*** TODO Buy X
